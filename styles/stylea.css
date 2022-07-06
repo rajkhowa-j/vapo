@@ -1,0 +1,43 @@
+body {
+    text-align: justify;
+    font-family:'Courier New', Courier, monospace;
+    font-size: 14pt;
+}
+h1 {
+    text-align: center;
+    text-decoration: underline;
+    font-style: italic;
+    background-color: cornsilk;
+    color: darkblue;
+}
+.into {
+    margin-top:1.5cm;
+    margin-inline-start: 7cm;
+    font-size: 2cm;
+    font-style: italic;
+    font-weight: bold;
+    font-family: cursive;
+}
+p {
+    margin-left: 1cm;
+    margin-right: 1cm;
+    line-height: 1em;
+}
+ul {
+    color: black;
+}
+h3 {
+    margin-left: 0.3cm;
+    text-decoration: underline;
+}
+.newintro {
+    border: 2pt solid gray;
+    background-color: aquamarine;
+}
+.hello {
+    font-family: monospace;
+    color: blue;
+}
+h2 {
+    text-transform: uppercase;
+}
